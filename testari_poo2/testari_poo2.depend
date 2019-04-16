@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555406084 source:c:\users\diana\desktop\testari_poo2\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+
